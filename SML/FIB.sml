@@ -6,3 +6,7 @@ fun fib n : IntInf.int =
       if n = 0 then 0
       else if n = 1 then 1
       else fib2(n-2,0,1);
+	  
+	  
+	  fun fib n : IntInf.int = 
+	  in n = 0 then 0
